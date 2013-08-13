@@ -1,0 +1,5397 @@
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3"
+xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<mods version="3.3">
+<titleInfo>
+<title>The correspondence of Athanasius Kircher [electronic resource] : the world of a seventeenth
+century Jesuit : an international research project / Michael John Gorman and Nick Wilding</title>
+</titleInfo>
+<name type="personal">
+<namePart>Gorman, Michael J.</namePart>
+<role>
+<roleTerm>editor</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Wilding, Nick</namePart>
+<role>
+<roleTerm>editor</roleTerm>
+</role>
+</name>
+<typeOfResource>mixed material</typeOfResource>
+<part>
+<detail type="volume">
+<number>555</number>
+</detail>
+</part>
+<typeOfResource>mixed material</typeOfResource>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>584 images</extent>
+</physicalDescription>
+<abstract>"The Athanasius Kircher correspondence project was created with the goal of making the manuscript correspondence of Athanasius Kircher available on the Internet. The project was commenced through the collaboration of the Istituto e Museo di Storia della Scienza in Florence, the Pontifical Gregorian University in Rome and the European University Institute in Fiesole, under the direction of Michael John Gorman and Nick Wilding. Since September 2000, the project has been rehoused at Stanford University." -- Introduction.</abstract>
+<location>
+<physicalLocation>Archives of the Pontifical Gregorian University, APUG 555</physicalLocation>
+</location>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Old index of Volume I of the correspondence</title>
+</titleInfo>
+<typeOfResource>text</typeOfResource>
+<genre>index</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>12 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>1r</start><end>6v</end></extent>
+</part>
+<abstract>Index of late seventeenth century letter arrangement of volume I of the correspondence (APUG 555),  containing letters of ""Popes, Kings and Princes"" to Athanasius Kircher, with later notes in pencil indicating subsequent order."</abstract>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Alexander VII, Pope (Fabio Chigi), Aenigma ab Alex. VII PM solutum, MP scriptum</title>
+</titleInfo>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>annotator</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Alexander VII, Pope (Fabio Chigi)</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>mixed material</typeOfResource>
+<genre>notes</genre>
+<genre>address</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>6 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>9r</start><end>11v</end></extent>
+</part>
+<abstract>Various notes in the hand of Alexander VII with annotations in the hand of Athanasius Kircher</abstract>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Alexander VII, Pope (Fabio Chigi) to Kircher, [Rome], undated [1665-6?]</title>
+</titleInfo>
+<name type="personal">
+<namePart>Sacrobosco, Joannes de</namePart>
+<role>
+<roleTerm>quoted name</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Alexander VII, Pope (Fabio Chigi)</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>mixed material</typeOfResource>
+<genre>notes</genre>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>12 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>12r</start><end>17v</end></extent>
+</part>
+<abstract>Notes to Kircher in the hand of Alexander VII requesting information concerning a manuscript of the Sphere of Sacrobosco (BAV ms. Chigi E. IV. 130) and a collection of liturgical texts (BAV ms. Chigi C. V. 134). See Alberto Bartòla,""Alessandro VII e Athanasius Kircher S.J"", Miscellanea Bibliothecae Apostolicae Vaticanae, III (1989), 7-105"</abstract>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Leopold I to Kircher, Vienna, 6 August 1666</title>
+</titleInfo>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>quoted name</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Leopold I, Holy Roman Emperor</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Abele, Christopher</namePart>
+<role>
+<roleTerm>signatory</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>4 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>18r</start><end>19v</end></extent>
+</part>
+<abstract>Refers to letter from Kircher, 8 July 1666.
+
+18v = end of letter, autograph signature, followed by signature of Christophorus Abele, secretary.
+
+19v=Imperial seal and address."</abstract>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Leopoldo de' Medici to Kircher, Florence, 26 May 1665</title>
+</titleInfo>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Medici, Leopoldo de'</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>2 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>20r</start><end>20v</end></extent>
+</part>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>August, Duke of Braunschweig-Lüneburg to Kircher, Wolfenbüttel, 6/16 June 1664</title>
+</titleInfo>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>August, Duke of Braunschweig-Lüneburg</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>4 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>21r</start><end>22v</end></extent>
+</part>
+<abstract>f. 21r: ""Das Aenigma so er hinten an seine Polygraphiam gesetzet, haben wir nach seinem bericht alsbald enodiret .. auch zween andere Exempla dabey legen wollen ..  Wegen ermangelung einiger materie thun wir hiermit schliessen"".
+
+ Polygraphia Universalis. 
+
+
+
+21v, 22r, 22v=exercises in cipher (pencil)."</abstract>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>August, Duke of Braunschweig-Lüneburg to Kircher, Wolfenbüttel, 19/29 September 1664</title>
+</titleInfo>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>August, Duke of Braunschweig-Lüneburg</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>2 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>23r</start><end>23v</end></extent>
+</part>
+<abstract>August has received Kircher's ""angenehmes schreiben vom letzen Augusti"" and is eagerly awaiting the Mundus subterraneus: ""Gott geleite das Exemplar dass es balt moege zukommen"". He forwards with this letter ""ein aus dem hebraischen vertirtes Buch De Templo Salomonis, die in der praefation verheissene notae, wan sie zur perfection gebracht seyn, sollen von mir alsbald ihm auch zugesandt werden"". Cf. Kircher to Duke August, Rome, 31 October 1664, HAB: BA No.360.
+
+August has received Kircher's ""angenehmes schreiben vom letzen Augusti"" and is eagerly awaiting the Mundus subterraneus: ""Gott geleite das Exemplar dass es balt moege zukommen"". He forwards with this letter ""ein aus dem hebraischen vertirtes Buch De Templo Salomonis, die in der praefation verheissene notae, wan sie zur perfection gebracht seyn, sollen von mir alsbald ihm auch zugesandt werden"". Cf. Kircher to Duke August, Rome, 31 October 1664, HAB: BA No. 360."</abstract>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Friedrich, Landgrave of Hesse-Darmstadt to Kircher, Heitersheim, 8 April 1665</title>
+</titleInfo>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Friedrich, Landgrave of Hesse-Darmstadt</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>4 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>24r</start><end>25v</end></extent>
+</part>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Friedrich, Landgrave of Hesse-Darmstadt to Kircher, Heitersheim, 13 May 1665</title>
+</titleInfo>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Friedrich, Landgrave of Hesse-Darmstadt</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>mixed material</typeOfResource>
+<genre>letter</genre>
+<genre>accompanying letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>2 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>26r</start><end>26v</end></extent>
+</part>
+<abstract>f. 26r: ""…invio qui giunto à V. Ptà il Corso dell'ultima Cometa comparsa nell'ultimamente decorso Aprile, com'anche una Descrittione Tedesca dell'istessa, la quale darà senza dubbio, nuova materia alli curiosi ingegni d'Italia…"""</abstract>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Friedrich, Landgrave of Hesse-Darmstadt to Kircher, Heitersheim, 24 June 1665</title>
+</titleInfo>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Friedrich, Landgrave of Hesse-Darmstadt</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>4 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>27r</start><end>28v</end></extent>
+</part>
+<abstract>f. 27r: ""Ho ricevuto quella di V. P.tà della 8 passato coll'aggiunta opretta da lei ultimamente publicata …""
+
+Thanks Kircher for gift of Historia Eustachio-Mariana, and writes that he'll have to wait until he sees what is brought back by the flotilla of Naples before he can consider making a donation for the restoration of the shrine."</abstract>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Johann Friedrich, Duke of Braunschweig-Lüneburg to Kircher, Hannover, 16 February 1668</title>
+</titleInfo>
+<name type="personal">
+<namePart>Raggi, Massimiliano</namePart>
+<role>
+<roleTerm>quoted name</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Johann Friedrich, Duke of Braunschweig-Lüneburg</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>4 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>29r</start><end>30v</end></extent>
+</part>
+<abstract>29r=letter: ""La lunghezza del viaggio che ha dovuto far la scattola entro alla quale fui inviato un saggio della miniere d'Argento […] può forse haver portato qualche svario inordine alla quantità del Metallo"""</abstract>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Flavio Chigi to Kircher, Castel Gandolfo, 16 May 1665</title>
+</titleInfo>
+<name type="personal">
+<namePart>Fabián, Alejandro</namePart>
+<role>
+<roleTerm>quoted name</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Chigi, Flavio</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>4 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>31r</start><end>32v</end></extent>
+</part>
+<abstract>
+
+""Hebbi il volumetto inviatomi cortesemente in dono da V. R. della Vita di S. Eustachio "" Asks Kircher to thank ""Sig. Alessandro Fabiano della Città di Los Angelos nel Messico"" for gifts. 
+
+See Kircher to Flavio Chigi, 13 December 1666 (?), BAV Fondo Chigi R.V.g, 460r-v, discussing """"certa robba da nuova spagna""."</abstract>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Ernst Adalbert von Harrach to Kircher, Prague, 21 November 1663</title>
+</titleInfo>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Harrach, Ernst Adalbert von</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>4 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>33r</start><end>34v</end></extent>
+</part>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Karl Kaspar von der Leyen to Kircher, Trier, 12 October 1665</title>
+</titleInfo>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Leyen, Karl Kaspar von der</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>2 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>35r</start><end>35v</end></extent>
+</part>
+<abstract>Karl Kaspar hanks Kircher for the Mundus Subterraneus.</abstract>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Copia dell'instrutione data […] al S. Giulio Banfi Milanese</title>
+</titleInfo>
+<name type="personal">
+<namePart>Filippo Carlo (Mahamet Chelebi), Prince of Tunis</namePart>
+<role>
+<roleTerm>author</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Banfi (Palfi), Giulio</namePart>
+<role>
+<roleTerm>quoted name</roleTerm>
+</role>
+</name>
+<typeOfResource>mixed material</typeOfResource>
+<genre>notes</genre>
+<genre>report</genre>
+<genre>apograph</genre>
+<genre>copy</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>4 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>36r</start><end>37v</end></extent>
+</part>
+<abstract>36r-37r=""Copia dell'instrutione data ... al S. Giulio Banfi Milanese"" 37v=bears inscription ""Principe di Tunisi"" in ink and ""Filippo Carlo Principe di Tunis"" in pencil.
+
+37v=bears inscription ""Principe di Tunisi"" in ink and ""Filippo Carlo Principe di Tunis"" in pencil."</abstract>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Jacopo Nini to Kircher, Tunis, 11 June 1665</title>
+</titleInfo>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Nini, Jacopo</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>2 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>38r</start><end>38v</end></extent>
+</part>
+<abstract>Letter written to accompany the ""Copia dell'instrutione data ... al S. Giulio Banfi Milanese"" sent by Nini to Kircher."</abstract>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Ferdinando Giovanni di Gonzaga to Kircher, Castiglione, 27 December 1665</title>
+</titleInfo>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Gonzaga, Ferdinando Giovanni di</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>5 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>39r</start><end>40v</end></extent>
+</part>
+<abstract>
+
+Name of sender added in Kircher's hand"""</abstract>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Ferdinando II de' Medici, Grand Duke of Tuscany, to Kircher, Livorno, 19 March 1666</title>
+</titleInfo>
+<name type="personal">
+<namePart>Grueber, Johannes</namePart>
+<role>
+<roleTerm>quoted name</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Ferdinando II de' Medici, Grand Duke of Tuscany</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>mixed material</typeOfResource>
+<genre>notes</genre>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>4 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>41r</start><end>42v</end></extent>
+</part>
+<abstract>The Grand Duke has been talking with P. Grueber, back via Constantinople, about his travels in China and ""Tartaria"". Grueber claimed to have left travel accounts with Kircher in Rome. 
+
+42v=bears the words ""Il Gran Duca"" written twice in Kircher's hand."</abstract>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Jacopo Nini to Kircher, no place, undated</title>
+</titleInfo>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Nini, Jacopo</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>mixed material</typeOfResource>
+<genre>letter</genre>
+<genre>accompanying letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>4 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>43r</start><end>44v</end></extent>
+</part>
+<abstract>Nini asks Kircher to examine the enclosed book and inform him of the author.</abstract>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Jacopo Nini to Kircher, no place, 10 April 1666</title>
+</titleInfo>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Nini, Jacopo</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>4 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>45r</start><end>46v</end></extent>
+</part>
+<abstract>""Havendo pèr altro tempo fatta riconoschè la Talia [?]…""
+
+46v=""Card. Nini"", written in pencil."""</abstract>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Jacopo Nini to Kircher, no place, 21 October 1666</title>
+</titleInfo>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Nini, Jacopo</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>4 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>47r</start><end>48v</end></extent>
+</part>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Leopold Wilhelm, Archduke of Austria, to Kircher, Vienna, 3 April 1660</title>
+</titleInfo>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Leopold Wilhelm, Archduke of Austria</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Koch, Johann Georg</namePart>
+<role>
+<roleTerm>signatory</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Kaltschmidt, Johann</namePart>
+<role>
+<roleTerm>signatory</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>4 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>49r</start><end>50v</end></extent>
+</part>
+<abstract>Later published, with minor variants, on the third page of Kircher's Polygraphia Nova (1663).  The following is a transcription of the ms letter:
+
+ ""Devote, syncerè Dilecte; Tametsi iam anteà per tuae Soc[ietatis] Patres complacentiam nostram singularem, quam ex transmissà tuà inventione reciproci cum omnibus populis et Nationibus instituendi Literarum Commercii cepimus, privatim significari fecimus, praetermittere tamen noluimus, quin publicis etiam his nostris Literis eam tibi testatam redderemus. Cuius enim applausum iste vastissimo ingenio tuo dignus et genuinus partus non mereatur? quo Orbis terrarum populos tot Linguarum varietate à se inuicem dissidentes, reddis quasi unilingues, et tam diversarum atque ignotarum Vocum dissonantiam ingeniosissimo communium omnibus notarum invento concordas, naturalemque humanae Linguae imbecillitatem arte mutisque Literis supplere doces. Gratulamur tibi de egregia isthac ingenii tui felicitate, teque hortamur, ut id ipsum ulteriùs excolendo, Lucubrationes tuas posteritatis memoriae consecrare, et per hoc benevolentiam Principum promereri nullatenùs desinas, è quorum numero Nos inprimis  te omnigeno Archiducalis n[ost]rae gratiae adfectu complectimur; Dabantur Viennae 3.a Aprilis 1660"".
+
+50v=""Leopoldus Archidux"", in Kircher's hand."</abstract>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Leopoldo de' Medici to Kircher, Florence, 29 August 1665</title>
+</titleInfo>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Medici, Leopoldo de'</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>2 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>51r</start><end>51v</end></extent>
+</part>
+<abstract>Leopoldo compliments Kircher's Arithmologia, which he regards as ""ripiena di concetti ingegnosi et eruditi."" and asks for a copy of the Mundus Subterraneus, which had so pleased Alexander VII."</abstract>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Friedrich, Landgrave of Hesse-Darmstadt, to Kircher, Heitersheim, 18 September 1665</title>
+</titleInfo>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Friedrich, Landgrave of Hesse-Darmstadt</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>2 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>52r</start><end>52v</end></extent>
+</part>
+<abstract>Friedrich thanks Kircher for sending him a copy of the Arithmologia (""il libro […] de Misterij de numeri"") and says that he will read it with great interest."</abstract>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Leopoldo de' Medici to Kircher, Florence, 15 September 1665</title>
+</titleInfo>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Medici, Leopoldo de'</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>4 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>53r</start><end>54v</end></extent>
+</part>
+<abstract>Leopoldo thanks Kircher for sending a printed folio to be inserted into his work (probably the Arithmologia) 
+
+54v=inscription: ""Princip. Leopoldo di Toscana"", in Kircher's hand"""</abstract>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Leopoldo de' Medici to Kircher, Florence, 3 July 1663</title>
+</titleInfo>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Medici, Leopoldo de'</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>4 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>55r</start><end>56v</end></extent>
+</part>
+<abstract>Leopoldo thanks Kircher for an unspecified book, most probably the Polygraphia Nova.
+
+56v=inscribed ""Principe Leopoldo di Tosc."", apparently in Kircher's hand."</abstract>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Friedrich, Landgrave of Hesse-Darmstadt, to Kircher, Heitersheim, 10 August 1663</title>
+</titleInfo>
+<name type="personal">
+<namePart>Leopold I, Holy Roman Emperor</namePart>
+<role>
+<roleTerm>quoted name</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Friedrich, Landgrave of Hesse-Darmstadt</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>4 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>57r</start><end>58v</end></extent>
+</part>
+<abstract>Compliments an unspecified work of Kircher, ""data in luce sotto l'Augustissimo nome di Sua Maestà Caeserea"", which must be the Polygraphia Nova.  Praises Kircher for only allowing himself to be diverted by ""cose curiose e pellegrine"".
+
+58v=address and seal."</abstract>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Carlo II di Gonzaga Nevers, Duke of Mantua, to Kircher, Mantua, 2 November 1663</title>
+</titleInfo>
+<name type="personal">
+<namePart>Gonzaga, Ferdinando Giovanni di</namePart>
+<role>
+<roleTerm>presumed sender</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Carlo II di Gonzaga Nevers, Duke of Mantua</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>4 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>59r</start><end>60v</end></extent>
+</part>
+<abstract>Thanks Kircher for unspecified work (possibly the Polygraphia Nova). 
+
+60v=address and seal."</abstract>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Leopoldo de' Medici to Kircher, Florence, 17 May 1667</title>
+</titleInfo>
+<name type="personal">
+<namePart>Stensen, Niels</namePart>
+<role>
+<roleTerm>quoted name</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Medici, Leopoldo de'</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>mixed material</typeOfResource>
+<genre>accompanying letter</genre>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>4 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>61r</start><end>62v</end></extent>
+</part>
+<abstract>In order that Kircher should not lack works printed in Florence, Leopoldo sends him a work ""in genere d'Anatomia"" published ""presentemente"" by a non-Italian author, currently in Florence. The work in question is almost certainly Niels Stensen's Elementorum myologiae specimen, seu, Musculi descriptio geometrica cui accedunt canis carchariae dissectum caput, et dissectus piscis ex canum genere. - Florentiae : Ex typographia sub signo stellae, 1667.
+
+The Danish anatomist Stensen (or Steno or Stenone) was resident in Florence, in the court of Grand Duke Ferdinand II. Leopoldo also discusses the ceremonies in Florence to mark the death of the Queen mother of France. 
+
+62v=inscribed ""Princeps Leopoldo"" in Kircher's hand."</abstract>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Cesare Facchinetti to Kircher, Naples, 19 February 1667</title>
+</titleInfo>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Bernini, Gianlorenzo</namePart>
+<role>
+<roleTerm>related name</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Facchinetti, Cesare</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>4 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>63r</start><end>64v</end></extent>
+</part>
+<abstract>Facchinetti has enriched his library with an unidentified work of Kircher's on obelisks (most probably Obelisci aegyptiaci interpretatio, Rome, 1666).  He praises Kircher's work over Bernini's elephant supporting the obelisk of Santa Maria sopra Minerva, pointing out that the latter displays only """"maraviglia"""" whereas Kircher's interpretations display both ""maraviglia"" and ""intelligenza, quella che rende più preziosi I marmi dell'antichità"".
+
+64v=address and seal."</abstract>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Francesco Maria Brancacci to Kircher, Viterbo, 1 May 1664</title>
+</titleInfo>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Brancacci, Francesco Maria</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>4 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>65r</start><end>66v</end></extent>
+</part>
+<abstract>""Il P. Dionysio"" gave the Cardinal Kircher's ""Regno Magnetico"" (Magneticum naturae regnum (Rome, 1667)).
+
+66v=address and seal."</abstract>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Carlo Conti, Duke of Poldi, to Kircher, Poldi, 11 October 1666</title>
+</titleInfo>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Conti, Carlo</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>mixed material</typeOfResource>
+<genre>calculations</genre>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>4 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>67r</start><end>68v</end></extent>
+</part>
+<abstract>
+
+68v=contains arithmetical calculations."</abstract>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Ferdinando II de' Medici, Grand Duke of Tuscany, to Kircher, Florence, 6 July 1663</title>
+</titleInfo>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Ferdinando II de' Medici, Grand Duke of Tuscany</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>4 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>69r</start><end>70v</end></extent>
+</part>
+<abstract>Thanks Kircher for the gift of a work (most probably Polygraphia Nova). 
+
+70v=address and seal, with ""Il Gran Principe di Toscana"" written in Kircher's hand"</abstract>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Maximilian Heinrich, Elector of Cologne, to Kircher, Bonn, 29 July 1663</title>
+</titleInfo>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Maximilian Heinrich, Elector of Cologne</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>4 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>71r</start><end>72v</end></extent>
+</part>
+<abstract>Thanks Kircher for giving a book (probably Polygraphia Nova) to the agent of Henricus Maximilianus in Rome.
+
+72v=address and seal."</abstract>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Carlo Emanuele II, Duke of Savoy, to Kircher, Turin, 1 August 1663</title>
+</titleInfo>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Carlo Emanuele II, Duke of Savoy</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>4 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>73r</start><end>74v</end></extent>
+</part>
+<abstract>Praises Kircher and thanks him for ""la parte c'hà voluto farmene"", possibly referring to a gift of the Polygraphia Nova.
+
+74v=address and seal."</abstract>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Joseph Karl, Archduke of Austria, to Kircher, Vienna, 31 December 1661</title>
+</titleInfo>
+<name type="personal">
+<namePart>Pizzoni, Francesco</namePart>
+<role>
+<roleTerm>quoted name</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Joseph Karl, Archduke of Austria</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>4 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>75r</start><end>76v</end></extent>
+</part>
+<abstract>Inscription in Kircher's hand: ""Hae litterae propria manu Josephi Caroli Archiducis exaratae fuerunt"". 
+
+The young Archduke thanks Kircher for the gift of his Mathematical Organ, sent to him by way of Fr. Pizzoni. The archduke appreciates the gift of a machine that will allow him to understand the mathematical disciplines easily, and says that the instrument is pleasing him ""magis magisque""."</abstract>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Kircher to Johann Georg, Prince Elector of Saxony, Rome, 31 October 1665 (draft)</title>
+</titleInfo>
+<name type="personal">
+<namePart>Ferdinand III, Holy Roman Emperor</namePart>
+<role>
+<roleTerm>quoted name</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Johann Georg, Prince Elector of Saxony</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>mixed material</typeOfResource>
+<genre>draft</genre>
+<genre>letter</genre>
+<genre>accompanying letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>2 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>77r</start><end>77v</end></extent>
+</part>
+<abstract>Kircher sends his recently published Mundus Subterraneus, initiated under the auspices of the late Emperor Ferdinand III,  to the Prince Elector of Saxony, both for the splendour of his heroic virtues and ""ob ingentam magna mentis tuae in arcanioris huiusmodi naturae studia propensionem"". 
+
+77v= inscription, in Kircher's hand ""Litterae ad Electorem Saxoniae""."</abstract>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Carlo Conti, Duke of Poldi, to Kircher, Poldi, 12 July 1666</title>
+</titleInfo>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Conti, Carlo</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>4 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>78r</start><end>79v</end></extent>
+</part>
+<abstract>Discusses restoration of the shrine of the Madonna della Mentorella. Historia Eustachio-Mariana.
+
+79v= inscription, in pencil, ""Dux Pili""[?]"</abstract>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Kircher to Ernest, Bishop of Osnabrück, Rome, 30 October 1665 (draft)</title>
+</titleInfo>
+<name type="personal">
+<namePart>Ernest, Bishop of Osnabrück (unidentified)</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>mixed material</typeOfResource>
+<genre>draft</genre>
+<genre>letter</genre>
+<genre>accompanying letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>2 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>80r</start><end>80v</end></extent>
+</part>
+<abstract>Kircher sends a copy of Mundus Subterraneus, ""opera per gli segreti ed arcani della Natura"" to Ernest and his consort, as an expression of his gratitude for the kindness they showed to Kircher during their visit to Rome.  The book, Kircher elaborates, was intended to give ""qualche sodisfattione alla lodevole curiosità di Principi virtuosi""."</abstract>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>August, Duke of Braunschweig-Lüneburg to Kircher, Wolfenbüttel, 18/28 June 1666</title>
+</titleInfo>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>August, Duke of Braunschweig-Lüneburg</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>2 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>81r</start><end>81v</end></extent>
+</part>
+<abstract>""Wir zweiffeln nicht, der H. Pater werde unser vorige schreiben erhalten haben, oder theils vor ankunfft dieses noch erhalten, Und alss uns newlicher Tagen von Unserem Bergwercke eub neues gepraege zugekommen welches 5 Reichsthaler an silber in sich heilt, so haben Wir davon eines in goldt verfertigen lassen welches wir dem H. Patri hiermit nebst zwey silbernen zuschicken wollen, obs ihm etwan belieben moechte zur geringen gedaechtnis auffzuheben. Sein Iter Hetruscum werden wir erwarten, sowohl auch des H. Patris // [81v] Olivae primam partem Italicarum Concionum....""."</abstract>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>August, Duke of Braunschweig-Lüneburg to Kircher, Wolfenbüttel, 28 May 1666</title>
+</titleInfo>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>August, Duke of Braunschweig-Lüneburg</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>4 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>82r</start><end>83v</end></extent>
+</part>
+<abstract>""Das Kaestlein mit den Syrischen Evangelistario und kostbaren Oelen und Sassern ist endlich vergangenen Freytag den 25. Hujus St. V. ankommen, und alles woll conditioniret gelifert. Des Herrn Generalis P. Oliva andere Theil seiner Predigten haben Wir auch woll erhalten, moechten den ersten Theil Italiaenisch auch woll haben, vertiret haben wir beyde Theile in Latein vermoege Unseres vorigen schreibens. Wir moechten woll wissen, wessen das Wapen ist, so auff beyde Buecher ausserhalb getrueckt, darinnen lauter Lewen, und unten zwey Hirschgeweihe. Die sehr woll riechende quarti und die 3 ventil gefallen Unserer Consortae sehr woll. Der Truecker zu Amsterdam wird das Iter Hetruscum vielleicht noch nicht fertig haben, sonsten thun Wir uns bedancken, wegen Ueberlassung des so raren siebenhundert Jaehrigen Syrischen Exemplars, und soll uns sonderlich lieb seyn, weiln es von dem Hern Patre hergekommen, haben es gelich unter Unsere Msta. Auff. Der Bibliotheck setzen lassen. Wir haben Unsern Johann Georg Ankeln befohlen, cito euch 400 Rthl.per wechweìsel zu uebermachen wormit ihr vor die mahl wollet vorlieb nehmen"".
+
+The letter discusses August's gift of 400 Reichsthaler to Kircher, also mentioned in Kircher's Vita (1684), but placed in the year 1661. 
+
+83v= inscription (in Kircher's hand?) """"Augustus 400 scu[di]"""".""
+
+
+
+Fletcher, Athanasius Kircher und, p. 133."</abstract>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>August, Duke of Braunschweig-Lüneburg to Kircher, Wolfenbüttel, 7/17 August 1665</title>
+</titleInfo>
+<name type="personal">
+<namePart>Johann Friedrich, Duke of Braunschweig-Lüneburg</namePart>
+<role>
+<roleTerm>quoted name</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Galilei, Galileo</namePart>
+<role>
+<roleTerm>quoted name</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Campani, Giuseppe</namePart>
+<role>
+<roleTerm>quoted name</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>August, Duke of Braunschweig-Lüneburg</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>4 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>84r</start><end>85v</end></extent>
+</part>
+<abstract>Thanks K. for medicines and ""chemical things"" from pharmacy, but adds ""that the correct dosage should be written on them, and also which sickness they are for""
+
+ August has ""seine drey schreiben vom 21. Febr: 8. Maii und 25 Julii woll erhalten"", points out however ""dass darin angedeutete Buch aber, nemblich die Historia Eustachio Marianam ist Uns nicht geliefert"". [f. 84v] ""Sonsten ist Uns lieb, dass ihm das geringe geldt geliefert, Er wird also darmit vor diesmahl vorlieb nehmen, und bedarff dasselbe einer so grossen dancksagung gar nichtm es ist nur zu einer geringen anzeige Unserer bestendigen zu ihm tragenden affection. Das Iter Hetruscum wird woll zulesen seyn, wan der Gran Duca la Republica di Luca auch hette, welches aber der Pabst und Der Kaiser als ihre Patroni nicht zugeben werden, koente er sich Regem Hetruria schreiben, // [f. 85r] dass der H.P. ihm gefallen lassen, obgemeltes Iter Hetruscum Uns zu dediciren, daraus verspueren Wir seine gute bestendige affection, die Wir jederzeit vermercket werden es dancknehmig zuerkennen wissen. Wirverspueren auch dieselbe noch weiter daraus, dass er Uns von Chymischen sachen aus ihrer Apotheck mittheilen wolle, es werden Uns dieselbe sehr angenehm seyn, und sehgen gerne, dass der Dosis allezeit dabey geschreiben werden moechte, und gegen was fuer Kranckheiten dieselbe nuetzlich zugebrauchen, dan wan man den Dosin nicht recht wuesste, man leichtlich an statt des nutzes schaden daran erfahren wuerde. Wie fueglich alles auf Augsspurg verschaffen, wird ihm Unser Anckel an die Handt gebenm sofern es nicht albereit von ihm geschehen.  Was der Josephus Campanus vom [symbol for Saturn] und [symbol for Jupiter] herauss geben, ist woll zumercken, der Tubus hat uns viel entdecket, so den Alten unbewust gewesen, wegen mangel des scharffen gesichtes. Der Galilaeus in Florentz hat de Confectione Tuborum insonderheit seine gedancken heraus gegeben. // [f. 85v]  Was der H. Pater de abditis numerorum mysteriis geschreiben, wollen wir angedeuteter massen von ihm erwarten. Es hat vor 51 Jahren Petrus Bungus Bergomas auch einer Tractat de mumerorum mysteriis ausgehen lassen, so in Unserer Bibliotheck verhanden, ist getrucket zu Bergamo Anno 1614 in 4to und lautet dessen Titul also: Petri Bungi Bergomatis Numerorum mysteria ex abditis plurimarum disciplinarum fontibus hausta.  Dass wegen der Succession in die verlassene Fuerstenthuember Unsers newlich denati Agnati Christiani Ludovici, streitt zwischen den Herrn Gebruedern Georgio Wilhelmio und Johanne Friderico entstanden, wird ohnezweiffel Fama auch ueber die Alpes gebracht haben, und zwar so heftig, dass uterque militem conscriberet gehabt, es ist aber Gott sey danck derselbe ex fundamentis cum utiusque hoc contento numehr beygeleget, welche bona nova Wir dem H. Pat: auch mittheilen wollen, es heisset ja billig, Pacem te possimus Omnes. Es hat viele muehe gekostet, dieses glimmende feuer zudempffen, und die Laender und Fuerstenthuember in frieden zuerhalten"".
+
+Draft at HAB: BA No. 369/2."</abstract>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>August, Duke of Braunschweig-Lüneburg to Kircher, Wolfenbüttel, 21/31 January 1666</title>
+</titleInfo>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>August, Duke of Braunschweig-Lüneburg</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>4 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>86r</start><end>87v</end></extent>
+</part>
+<abstract>""Wir haben seine angenaeme drey schreiben, vom 1, und 22. Aug. Dell'Anno passato, und 8. Jan 1666 aus Rom, ueber Venedig, Augsburg und Nuroberg wol erhalten. Es hatte der H. Pater es nicht noetig gehabt, eine so hohe Dancksagung wegen der uebermachten quadrini, zu ueberscreiben. Er wolle nuhr mit denselben fuer dyses mahl verlyb naemen. Was er uns sonsten an Buechern, und einen Ms uebersenden wird, solches sol uns lyb und gantz angenaem kommen. Wir schikken Ihm hierbey eine Reformatione Calendarii eines Nuernbergischen professoris zu Altdorff [i.e. Abdias Trew, Gruendliche Kalender Kunst in zwei Theil verfasst, Lueneburg, 1666] und moechten wol des H. patris Judicium, wan Er so weit a magis feriis abmuessigen koente, darueber vernaemen wy man astronomice ex politice der lang begehrten, und vielmaal tartirten, wiewol // [f.86v] bishero undurno Enderung schaffen moechte"". 
+
+87v=inscription (in Kircher's hand?): ""Augustus dux gratias agit de transmissis medicamentis et extenuat munus subsidiarium transmissum"". 
+
+Draft at HAB: BA No. 369/1."</abstract>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>August, Duke of Braunschweig-Lüneburg to Kircher, Wolfenbüttel, 16/26 April 1666</title>
+</titleInfo>
+<name type="personal">
+<namePart>Oliva, Giovanni Paolo</namePart>
+<role>
+<roleTerm>quoted name</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>August, Duke of Braunschweig-Lüneburg</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>2 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>88r</start><end>88v</end></extent>
+</part>
+<abstract>August wishes to obtain G.P. Oliva's books for his library.
+
+88r: He has received Kircher's letter of 19 March and 2 April ""worinnen auch zugleich des Herrn P. Generalis Johan: Pauli Olivae S.J. Tomus 2. Concionum Apostolicarum italico idiomate conscriptarum geleget. Die lateinische version Tomi prioris et posterioris desselben Concionum, selche der Johan: de Bussiers quisdem S. in lateinischer sprache heraus gegeben, haben wir in Unserer Bibliothek. Primum librum earundem concionum in Italianischer // [f. 88v] sprache moechten Wir umb die gebuerm zu completierung derselben, auch woll haben, umb Uns damit in der Italiaenischen sprache zuueben, so wir in annis 89. 90 und 600 in Jubliaeo, tempore P. M. Clementis 8vi. P.m. in etwas gefasset""."</abstract>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Leopoldo de' Medici to Kircher, Florence, 10 July 1666</title>
+</titleInfo>
+<name type="personal">
+<namePart>Stensen, Niels</namePart>
+<role>
+<roleTerm>quoted name</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Medici, Leopoldo de'</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>4 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>89r</start><end>90v</end></extent>
+</part>
+<abstract>Thanks Kircher for sending him the ""libretto dell'interpretazione dell'Obelisco Egiziaco"", i.e. Obelisci aegyptiaci interpretatio (Rome, 1666), and praises Niels Stensen (Stenone).
+
+90v=inscription in pencil: ""Principe Leopoldo di Toscana""."</abstract>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Johann Friedrich, Duke of Braunschweig-Lüneburg to Kircher, Hannover, 3 December 1665</title>
+</titleInfo>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Johann Friedrich, Duke of Braunschweig-Lüneburg</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>4 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>91r</start><end>92v</end></extent>
+</part>
+<abstract>Mentions that Johann Friedrich is expecting a book from Kircher and has already received his letter.
+
+92v=address and seal, with (in pencil) ""Dux Luneburg""."</abstract>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Friedrich, Landgrave of Hesse-Darmstadt to Kircher, Heitersheim, 8 February 1666</title>
+</titleInfo>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Friedrich, Landgrave of Hesse-Darmstadt</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>2 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>93r</start><end>93v</end></extent>
+</part>
+<abstract>Refers to letter from Kircher of 26 December 1665.</abstract>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Maximilian Heinrich, Elector of Cologne, to Kircher, Bonn, 13 December 1663</title>
+</titleInfo>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Maximilian Heinrich, Elector of Cologne</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>4 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>94r</start><end>95v</end></extent>
+</part>
+<abstract>Thanks Kircher for three works: Mundus Subterraneus, Historia Eustachio-Mariana and Arithmologia.
+
+95v=address and seal, with ""Elector Colon."" written in a different hand in pencil."</abstract>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Leopoldo de' Medici to Kircher, Florence, 3 August 1666</title>
+</titleInfo>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Medici, Leopoldo de'</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>4 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>96r</start><end>97v</end></extent>
+</part>
+<abstract>Thanks Kircher for his Obelisci aegyptiaci interpretatio (Rome, 1666). Writing ""Non prima ho dichiarata a V[ostra] R[everenza] la propria gratitudine per il Dono del libro che mi ha mandato dell'Interpretazione fatto da Lei all'Obelisco Egizio, recentemente ritrovato negli Orti della Minerva, perche volsi avanti scorrerlo…"". 
+
+97v=address and seal, with ""Gran Principe"" inscribed in pen (possibly in Kircher's hand) and in pencil (unknown hand)."</abstract>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Kircher to Joseph Karl, Archduke of Austria, Rome, 7 July 1661 (draft)</title>
+</titleInfo>
+<name type="personal">
+<namePart>Kinner von Löwenthurm, Godefrid Alois</namePart>
+<role>
+<roleTerm>quoted name</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Pizzoni, Francesco</namePart>
+<role>
+<roleTerm>quoted name</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Joseph Karl, Archduke of Austria</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>mixed material</typeOfResource>
+<genre>draft</genre>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>2 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>98r</start><end>98v</end></extent>
+</part>
+<abstract>Kircher is sending his mathematical organ to the Archduke by way of Fr. Pizzoni. The organ was later described in Gaspar Schott, Organum Mathematicum Libris IX. Explicatum, Herbipoli, 1668. 
+
+Inc. ""Mitto per manus P. Pizzoni Serenissimae Vestrae Celsitudini, Instrumentum quoddam quod Organum mathematicum appello; in quo summa facilitate traduntur illae Artes mathematicae, ad quas Serentitatem vestram inclinari audio, Regibus et Principibus uti par est, nullo non tempore summo in honore habitae…"". 
+
+98v=inscription (in Kircher's hand): ""Litterae ad Joseph. Carl. Archiduc."""</abstract>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Johann Georg, Prince Elector of Saxony, to Kircher, Dresden, January 1666</title>
+</titleInfo>
+<name type="personal">
+<namePart>Ferdinand III, Holy Roman Emperor</namePart>
+<role>
+<roleTerm>quoted name</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Johann Georg, Prince Elector of Saxony</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>4 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>99r</start><end>100v</end></extent>
+</part>
+<abstract>Johann Georg thanks Kircher for the gift of the Mundus Subterraneus. 100v=address and seal with, in Kircher's hand ""Electoris Saxoniae gratias agit pro transmisso Mundo subterraneo"""</abstract>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Johann Georg, Prince Elector of Saxony, to Kircher, Dresden, 11 December 1663</title>
+</titleInfo>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>quoted name</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>August, Duke of Braunschweig-Lüneburg</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Johann Georg, Prince Elector of Saxony</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>2 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>101r</start><end>101v</end></extent>
+</part>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Kircher to Alexander VII, Pope (Fabio Chigi), no place, undated (draft)</title>
+</titleInfo>
+<name type="personal">
+<namePart>Elizabeth, Princess of the Palatinate</namePart>
+<role>
+<roleTerm>quoted name</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Alexander VII, Pope (Fabio Chigi)</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>mixed material</typeOfResource>
+<genre>draft</genre>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>2 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>102r</start><end>102v</end></extent>
+</part>
+<abstract>Kircher asks the Pope for permission to be granted for Elizabeth of Palatine, wife of the Duke of Luneburg, to be granted permission to visit the Collegio Romano, including its library and Kircher's Museum as well as the Domus Professa, arguing that although the princess is not of the Catholic she is ""ab ea tamen non aliena"", and ""virorum literatorum praesertim Soc. nostrae, quibuscum iam dudum in Germania assueverat, commercium ambit"". Kircher notes that the power to grant such permission is reserved to the Pope alone: ""respondi eiusmodi facultatem neque me, neque P. Generalem, neque quenquam alium concedete posse, utpote soli Summo Pontifici, cui iure religionis omnes subdimur, reservatam"".
+
+102v=in Kircher's hand ""Ad Alex. VII P.M. pro Palatina""."</abstract>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Kircher to the Holy Roman Emperor [Leopold I?], no place, undated (draft)</title>
+</titleInfo>
+<name type="personal">
+<namePart>Leopold I, Holy Roman Emperor</namePart>
+<role>
+<roleTerm>presumed recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Ferdinand III, Holy Roman Emperor</namePart>
+<role>
+<roleTerm>presumed recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>mixed material</typeOfResource>
+<genre>draft</genre>
+<genre>letter</genre>
+<genre>accompanying letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>2 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>103v</start><end>102v</end></extent>
+</part>
+<abstract>Kircher sends the Emperor an image of St. Athanasius made of feathers which he has received from a Priest returning from Mexico.</abstract>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Ferdinand Maria, Elector of Bavaria, to Kircher, Munich, 19 October 1663</title>
+</titleInfo>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Ferdinand Maria, Elector of Bavaria</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>4 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>104r</start><end>105v</end></extent>
+</part>
+<abstract>Thanks Kircher for Polygraphia Nova.
+
+105v=address and seal."</abstract>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Francesco Maria Brancacci to Kircher, Viterbo, 18 March 1665</title>
+</titleInfo>
+<name type="personal">
+<namePart>Petrucci, Giuseppe Antonio</namePart>
+<role>
+<roleTerm>quoted name</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Brancacci, Francesco Maria</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>4 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>106r</start><end>107v</end></extent>
+</part>
+<abstract>Thanks Kircher for sending Gioseffo Petrucci [Athanasius Kircher], Fisiologia Nuova della Natura delle Comete (Rome, 1665). 
+
+Discusses astronomical observations. 
+
+107v=address and seal."</abstract>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Leopoldo de' Medici to Kircher, Florence, 13 October 1666</title>
+</titleInfo>
+<name type="personal">
+<namePart>Chimentelli, Valerio</namePart>
+<role>
+<roleTerm>quoted name</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Medici, Leopoldo de'</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>mixed material</typeOfResource>
+<genre>accompanying letter</genre>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>4 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>108r</start><end>109v</end></extent>
+</part>
+<abstract>Leopoldo sends Kircher a copy of a new book by ""Dottor Chimentelli"", presumably Valerio Chimentelli, Marmor Pisanum de honore bisellii. Parergon inseritur de veterum sellis ... Accedit Myiodia, sive de muscis odoris Pisanis epistola. Ex typographia haeredis V. Benatii: Bononiae, 1666. 
+
+109v=inscription, in Kircher's hand (?) ""Principe Leopoldo."""</abstract>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Kircher to Ferdinand Maria, Elector of Bavaria, Rome, 12 July 1666 (draft)</title>
+</titleInfo>
+<name type="personal">
+<namePart>Ferdinand Maria, Elector of Bavaria</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>mixed material</typeOfResource>
+<genre>draft</genre>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>2 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>110r</start><end>110v</end></extent>
+</part>
+<abstract>Kircher sends the Duke a copy of his Obelisci aegyptiaci interpretatio (Rome, 1666)
+
+100v=inscription in Kircher's hand: ""Litterae ad Ducem Bavariae""."</abstract>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Ferdinand Johann, Prince of Lichtenstein to Kircher, Vienna, 14 June 1665</title>
+</titleInfo>
+<name type="personal">
+<namePart>Saccarelli, [unidentified]</namePart>
+<role>
+<roleTerm>quoted name</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Ferdinand Johann, Prince of Lichtenstein</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>mixed material</typeOfResource>
+<genre>letter</genre>
+<genre>accompanying letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>4 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>111r</start><end>112v</end></extent>
+</part>
+<abstract>Acknowledges receipt of letter from Kircher of 23 May 1665, ""cum inclusis"".
+
+112v=address and seal."</abstract>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Kircher to August, Duke of Braunschweig-Lüneburg, no place, undated [Rome, 19 March 1666] (draft)</title>
+</titleInfo>
+<name type="personal">
+<namePart>Oliva, Giovanni Paolo</namePart>
+<role>
+<roleTerm>quoted name</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>August, Duke of Braunschweig-Lüneburg</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>mixed material</typeOfResource>
+<genre>draft</genre>
+<genre>letter</genre>
+<genre>accompanying letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>4 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>113r</start><end>114v</end></extent>
+</part>
+<abstract>
+
+Kircher forwards to August a manuscript of the four gospels in Estranghelo-Syriac, written in the form of Syriac used in Palestine at the time of Christ.
+
+114v=inscribed in Kircher's hand ""Serm. Augusto Duc. Brun.""
+
+Kircher also forwards to August the work of G.P. Oliva (General of the Society of Jesus) Conciones Apostolicarum, and ""olea pretiosa et aquae odoriferae separatis arculis inclusae: servientque tum ad spiritus contentione studiorum exhaustos instaurandos"". The copy of the letter actually sent to August (dated 19 March 1666) is in HAB 6 Novissimi 2o ff. 59-61"</abstract>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Kircher to Ferdinando II de' Medici, Grand Duke of Tuscany, no place, undated (draft)</title>
+</titleInfo>
+<name type="personal">
+<namePart>Ferdinando II de' Medici, Grand Duke of Tuscany</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>mixed material</typeOfResource>
+<genre>draft</genre>
+<genre>accompanying letter</genre>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>2 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>115r</start><end>115v</end></extent>
+</part>
+<abstract>Kircher sends Ferdinando his  copy of his Obelisci aegyptiaci interpretatio (Rome, 1666), which has just been printed."</abstract>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Johann Friedrich, Duke of Braunschweig-Lüneburg to Kircher, Herzberg, 14 April 1664</title>
+</titleInfo>
+<name type="personal">
+<namePart>August, Duke of Braunschweig-Lüneburg</namePart>
+<role>
+<roleTerm>quoted name</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Johann Friedrich, Duke of Braunschweig-Lüneburg</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>4 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>116r</start><end>117v</end></extent>
+</part>
+<abstract>Thanks Kircher for a gift of the Polygraphia Nova, forwarded by way of Duke August, Johann Friedrich's cousin. 
+
+Describes the book as ""… un libro Intitolato Poligrafia p[er] aprendere le lingue, à mè diretto dalla P. V. Aut.re del med.mo  Veram.te il Nome Kirchero essaltato e lodato dà più d'una lingua, era dovere, che finalm.te comparisse ancora in forma di lingue p[er] informare con artificiosa Poligrafia la Nobilità Peregrina, et I Prencipi Curiosi"".
+
+117v=address and seal, with (in a different hand) ""Don Federico, Duca di Brunswick."""</abstract>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Filippo Carlo (Mahamet Chelebi), Prince of Tunis, to Kircher, Tunis, 26 September 1660</title>
+</titleInfo>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Filippo Carlo (Mahamet Chelebi), Prince of Tunis</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>2 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>118r</start><end>118v</end></extent>
+</part>
+<abstract>Carlo complains that many of his letters to Kircher have gone unreplied, ""ò che non si siano pervenute alle mane, ò forse per altra Impeditione..""  He asks Kircher to ""darmi nuova della sua salute"", and asks for any news at all from Kircher, ending ""mi raccomando alle Sué Sante oratione.."""</abstract>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Friedrich Wilhelm, Elector of Brandenburg, to August, Duke of Braunschweig-Lüneburg, Cöln an der Spree, 6 December 1663</title>
+</titleInfo>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>quoted name</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>August, Duke of Braunschweig-Lüneburg</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Friedrich Wilhelm, Elector of Brandenburg</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>2 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>119r</start><end>119v</end></extent>
+</part>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>August, Duke of Braunschweig-Lüneburg to Kircher, Wolfenbüttel, 30 September/10 October 1661</title>
+</titleInfo>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>August, Duke of Braunschweig-Lüneburg</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>4 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>120r</start><end>121v</end></extent>
+</part>
+<abstract>Draft copy in HAB, BA No. 357"</abstract>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Ferdinando Giovanni di Gonzaga to Kircher, Castiglione, 1 January 1665</title>
+</titleInfo>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Gonzaga, Ferdinando Giovanni di</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>4 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>122r</start><end>123v</end></extent>
+</part>
+<abstract>Thanks Kircher for Christmas greetings. 
+
+123v=address and seal."</abstract>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Johann Georg, Prince Elector of Saxony to August, Duke of Braunschweig-Lüneburg, Dresden, 5 January 1666</title>
+</titleInfo>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>quoted name</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>August, Duke of Braunschweig-Lüneburg</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Johann Georg, Prince Elector of Saxony</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>4 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>124r</start><end>125v</end></extent>
+</part>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Leopoldo de' Medici to Kircher, Florence, 15 May 1666</title>
+</titleInfo>
+<name type="personal">
+<namePart>Borelli, Giovanni Alfonso</namePart>
+<role>
+<roleTerm>quoted name</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Medici, Leopoldo de'</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>mixed material</typeOfResource>
+<genre>letter</genre>
+<genre>accompanying letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>4 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>126r</start><end>127v</end></extent>
+</part>
+<abstract>Leopoldo sends Kircher a copy of Giovanni Alfonso Borelli's work Theoricae Mediceorum planetarum ex causis physicis deductae à Io. Alphonso Borellio. - Florentiae :ex Typographia S.M.D., 1666. 
+
+""L'intendimento cosi perfetto che V. P. possiede di tante scienze et il diletto che ella ritrova in rimirare l'altruj virtuose fatiche mi persuadono giustamente adesso ad inviarlene alcune date presentamente alla luce dal Nostro Matematico Dottor Borelli sopra le Cause fisiche de moti, et apparenze dei Pianetini di Giove. Et parendomi di riconoscere in questa Operetta speculazioni cosi curiose, et stimabili, non ho dubbio che la Paternità Vostra sia per cortesemente gradirla"".
+
+127v=""Leopoldo Principe di Toscana"" (in Kircher's hand?)."</abstract>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Alfonso Letta to Kircher, Tivoli, 23 October 1666 (to Kircher in Frascati)</title>
+</titleInfo>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Letta, Alfonso</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>4 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>128r</start><end>129v</end></extent>
+</part>
+<abstract>To Kircher in Frascati. ""Ho le lettere di VP, e circa le cappelle da risanarsi dalla Communità di Cantolupo e vicovaro m'informarò""
+
+129v=address and seal, with ""Card. Di S. +"" in Kircher's hand (?)."</abstract>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Ferdinando II de' Medici, Grand Duke of Tuscany, to Kircher, Florence, 24 July 1666</title>
+</titleInfo>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Ferdinando II de' Medici, Grand Duke of Tuscany</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>4 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>130r</start><end>131v</end></extent>
+</part>
+<abstract>Thanks Kircher for ""il libro trasmessomi da V[ostra] R[everenza] delle Interpretaz[io]ne del nuovo Obelisco Egiziaco ritrovato negl'orti della Minerva"", i.e. Obelisci aegyptiaci interpretatio (Rome, 1666).
+
+131v=address and seal."</abstract>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Jacopo Nini to Kircher, Castel Gandolfo, 10 November 1666</title>
+</titleInfo>
+<name type="personal">
+<namePart>Alexander VII, Pope (Fabio Chigi)</namePart>
+<role>
+<roleTerm>quoted name</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Nini, Jacopo</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>4 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>132r</start><end>133v</end></extent>
+</part>
+<abstract>Cardinal Nini has presented to Alexander VII both the ""descrittione del sepolcro de farij fatta da V.Ra con tanta esattezza"" and the ""due iscritioni per la guglia della Minerva, che sono state giudicate molto pupie et aggiustate a spiegare l'intentione del P[ad]rone"". i.e. Kircher's inscriptions for the plinth supporting Bernini's elephant beneath the obelisk in front of the church of Santa Maria sopra Minerva.
+
+133v=address and seal."</abstract>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Leopoldo de' Medici to Kircher, Florence, 20 October 1666</title>
+</titleInfo>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Medici, Leopoldo de'</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>2 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>134r</start><end>134v</end></extent>
+</part>
+<abstract>Leopoldo praises an unidentifed person whom Kircher had provided with a letter of recommendation, dated 12 October 1666."</abstract>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Carlo Calà, Duke of Diano, to Kircher, Naples, 21 September 1664</title>
+</titleInfo>
+<name type="personal">
+<namePart>Mazzarota, Francesco</namePart>
+<role>
+<roleTerm>quoted name</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Calà, Carlo</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>4 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>135r</start><end>136v</end></extent>
+</part>
+<abstract>The Duke has received Kircher's letter from Fr. Francesco Mazzarota. He asks for the two volumes of Kircher's Mundus Subterraneus, which he will repay with two volumes that he is printing at the moment. Also asks Kircher for advice on translating the Greek names of two birds, Erithouro and Drioclaptos, and information on how best to represent them in copper-engraving."</abstract>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Carlo Conti, Duke of Poldi, to Kircher, Macerata, 17 July 1662</title>
+</titleInfo>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Conti, Carlo</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>4 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>137r</start><end>138v</end></extent>
+</part>
+<abstract>Discusses a visit made by Kircher to the Mentorella.
+
+138v=""Al Monsig. Conti gov. Di Macerata"""</abstract>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Bernard Ignaz von Martinitz to Kircher, Prague, 15 March 1664</title>
+</titleInfo>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Martinitz, Bernhard Ignaz von</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>mixed material</typeOfResource>
+<genre>accompanying letter</genre>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>4 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>139r</start><end>140v</end></extent>
+</part>
+<abstract>
+
+140v=""Martiniz"" in different hand"</abstract>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Bernard Ignaz von Martinitz to Kircher, Prague, 5 January 1664</title>
+</titleInfo>
+<name type="personal">
+<namePart>Wallenstein, Ferdinand Ernest von</namePart>
+<role>
+<roleTerm>quoted name</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Martinitz, Bernhard Ignaz von</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>4 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>141r</start><end>142v</end></extent>
+</part>
+<abstract>Thanks Kircher for an unidentified book (possibly Polygraphia Nova).
+
+142v=""Bern. Martiniz Br[...]"""" in different hand."</abstract>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Bernard Ignaz von Martinitz to Kircher, Prague, 25 July 1665</title>
+</titleInfo>
+<name type="personal">
+<namePart>Petrucci, Giuseppe Antonio</namePart>
+<role>
+<roleTerm>quoted name</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Martinitz, Bernhard Ignaz von</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>2 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>143r</start><end>143v</end></extent>
+</part>
+<abstract>Thanks Kircher ""pro astronomica illa dissertatione"". This is presumably Gioseffo Petrucci [Athanasius Kircher], Fisiologia Nuova della Natura delle Comete (Rome, 1665). Martiniz is not convinced that comets are purely natural events, rather than ""flagellum dei"", and seeks Kircher's interpretation of the star of Bethlehem."</abstract>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Bernard Ignaz von Martinitz to Kircher, Smecna, 18 September 1664</title>
+</titleInfo>
+<name type="personal">
+<namePart>Petrucci, Giuseppe Antonio</namePart>
+<role>
+<roleTerm>quoted name</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Martinitz, Bernhard Ignaz von</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>6 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>144r</start><end>146v</end></extent>
+</part>
+<abstract>Discusses Kircher's theory of comets, presented in Gioseffo Petrucci [Athanasius Kircher], Fisiologia Nuova della Natura delle Comete (Rome, 1665). 145v=""Martiniz"" (in different hand)"</abstract>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Ferenc von Nádasdy to Kircher, Pottendorff, 26 July 1665</title>
+</titleInfo>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Nádasdy, Ferenc von</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>4 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>147r</start><end>148v</end></extent>
+</part>
+<abstract>Thanks Kircher for his letter of 20 June 1665. Nadasdy received the Mundus subterraneus in Belgium, and praises it highly. He approves of Kircher's plan to dedicate the 1665 Arithmologia (""Librum de numerorum mysterijs"") to him, but cannot yet provide Kircher with a suitable engraved portrait for the title-page, for lack of a painter. 
+
+148v=address, seal, drawings in pencil and ""Nadasti"" in different hand/ink."</abstract>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Johann Friedrich, Duke of Braunschweig-Lüneburg, to Kircher, Celle, 2 September 1665</title>
+</titleInfo>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Johann Friedrich, Duke of Braunschweig-Lüneburg</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>4 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>149r</start><end>150v</end></extent>
+</part>
+<abstract>Johann Friederich has received Kircher's letter of 9 May 1665, but not the book that Kircher claimed to have sent in the same letter (possibly the Mundus subterraneus). 
+
+150v=address, seal and ""Joh. Fred. Duca di Lueneburg"""</abstract>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Christian August, Duke of Schleswig-Holstein, to Kircher, Osterholm, 27 November 1661</title>
+</titleInfo>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Christian August, Duke of Schleswig-Holstein</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>4 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>151r</start><end>152v</end></extent>
+</part>
+<abstract>Christian August (not Christiaan Huygens, as earlier inventories of the correspondence suggest), who had visited Kircher in Rome earlier in the year, describes the island, and provides Kircher with news about German dignitaries. ""Questa Isola nutrisce 2 compagnie delle truppe regie, et è fatigata giornalmente per le continue contributioni. Se dice ch'il Conte Ulfeld sarà liberato dalla sua prigione, la cio certezza sapremo subito. M'ora proposto d'andar alla corte, ma aspettaro fin ch'habbia risposta sopra alcune lettere // [151v] ivi mandate. E mentre non ho niente da fare passo il mio tempo con ricogliere nella memoria e perleggere i suoi libri"". Thanks Kircher for his ""fatighe et amabili instruttioni"", and adds that ""Il Sig. Holsten si bacia le mani. Riverisco Il P[ad]re Montesio"""". 
+
+152v=address and seal."</abstract>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Francesco Pianezza to Kircher, Turin, 19 July 1663</title>
+</titleInfo>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Pianezza, Francesco</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>4 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>153r</start><end>153v</end></extent>
+</part>
+<abstract>Thanks Kircher for letter, and gift of ""il suo pregiato volume"", possibly the Polygraphia Nova. The Marchese adds that ""con grand[issi]mo gusto mi son trattenuto molto tempo nel legger li suoi scritti publicati al mondo della luce de magnetismi della musica et della sapienza egittiana"". He impatiently awaits the Mundus Subterraneus"". 
+
+169v=""Marchese Pianezza"" (in Kircher's hand)."</abstract>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Francisco Ximénez (François Giliot) to Kircher, Puebla de los Angeles, 1 April 1655</title>
+</titleInfo>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Ximénez, Francisco (alias François Giliot)</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>4 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>155v</start><end>153v</end></extent>
+</part>
+<abstract>Ximinez introduces himself as ""ille quam R.a V.a Lugduni amicorum suorum catalogo inscripsu Franciscus Gilotius"", demonstrating that he met Kircher in Lyon. He has leafed through Kircher's Magnes, but has not yet had a chance to read the Prodromus Coptus. He also sends Kircher chocolate and images made from feathers, 
+
+155v=address and seal."</abstract>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Juan Caramuel Lobkowic to Kircher, Naples, 24 March 1665</title>
+</titleInfo>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Caramuel Lobkowic, Juan</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>4 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>156r</start><end>157v</end></extent>
+</part>
+<abstract>Discussion, with diagram, of the issue of whether the comet of 1664 was above or below the sun, based on considerations of parallax. Caramuel, who judges that the comet was below the sun, has received Kircher's work on the comet ( Gioseffo Petrucci [Athanasius Kircher], Fisiologia Nuova della Natura delle Comete (Rome, 1665)). He has also received a table of the motion of the comet according to Meyer. 
+
+157v= ""D. Caramuel de Concu."" in different hand."</abstract>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Juan Caramuel Lobkowic to Kircher, Naples, 27 October 1662</title>
+</titleInfo>
+<name type="personal">
+<namePart>Calà, Carlo</namePart>
+<role>
+<roleTerm>quoted name</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Caramuel Lobkowic, Juan</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>2 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>158r</start><end>158v</end></extent>
+</part>
+<abstract>Caramuel has received an unidentified book from Kircher, and previously written to him by way of the Duke of Diano. He asks for Kircher to send observations of the recent lunar eclipse, made both in Bologna and Rome. Caramuel wishes to publish his Cursus Mathematicus, but is detained by the lack of an engraver."</abstract>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Juan Caramuel Lobkowic to Kircher, Naples, 14 January 1665</title>
+</titleInfo>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Caramuel Lobkowic, Juan</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>2 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>158r</start><end>158v</end></extent>
+</part>
+<abstract>Caramuel thanks Kircher for sending cometary observations made in the month of December, and requests those made in January. He is astonished by the speed of the comet. He also asks Kircher when the Mundus Subterraneus will appear."</abstract>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Juan Caramuel Lobkowic to Kircher, no place, undated</title>
+</titleInfo>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Caramuel Lobkowic, Juan</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>4 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>161v</start><end>158v</end></extent>
+</part>
+<abstract>The cloudy skies are obstructing astronomical observations. Caramuel sends ""quid in lacu de Agniano observavimus"", and seeks philosophical explanations from Kircher. 
+
+161v= ""Caramuel"" in different hand"</abstract>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Gaspar de Peñaranda (Guzmán) de Bracamonte to Kircher, Naples. 21 July 1663</title>
+</titleInfo>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Peñaranda (Guzmán) de Bracamonte, Gaspar de</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>2 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>162r</start><end>162v</end></extent>
+</part>
+<abstract>Thanks Kircher for letter and unidentified book, possibly the Polygraphia Nova."</abstract>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Dorothea, Princess of Lichtenstein, to Kircher, Ceske Krumlov, 22 March 1663</title>
+</titleInfo>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Dorothea, Princess of Lichtenstein</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>4 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>163r</start><end>164v</end></extent>
+</part>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Ferdinand Johann, Prince of Lichtenstein, to Kircher, Ceske Krumlov, 15 March 1663</title>
+</titleInfo>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Ferdinand Johann, Prince of Lichtenstein</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>mixed material</typeOfResource>
+<genre>letter</genre>
+<genre>accompanying letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>4 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>165r</start><end>166v</end></extent>
+</part>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Stanislas Lubienietzki to Kircher, Gdansk, 6 February 1660</title>
+</titleInfo>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Lubienietzki, Stanislas</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>2 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>170r</start><end>170v</end></extent>
+</part>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Ferdinand Johann, Prince of Lichtenstein, to Kircher, Krumolv, 29 April 1665</title>
+</titleInfo>
+<name type="personal">
+<namePart>Grueber, Johannes</namePart>
+<role>
+<roleTerm>quoted name</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Bohm, [unidentified]</namePart>
+<role>
+<roleTerm>quoted name</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Ferdinand Johann, Prince of Lichtenstein</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>4 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>171r</start><end>172v</end></extent>
+</part>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Ferdinando Giovanni di Gonzaga to Kircher, Castiglione, 28 September 1666</title>
+</titleInfo>
+<name type="personal">
+<namePart>Riccioli, Giambattista</namePart>
+<role>
+<roleTerm>quoted name</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Gonzaga, Ferdinando Giovanni di</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>4 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>173r</start><end>174v</end></extent>
+</part>
+<abstract>Thanks Kircher for sending his latest book.
+
+174v=address and seal."</abstract>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Girolamo Boncompagni to Kircher, no place, 18 December 1666</title>
+</titleInfo>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Boncompagni, Girolamo</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>4 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>175r</start><end>176v</end></extent>
+</part>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>August, Duke of Braunschweig-Lüneburg to Kircher, Wolfenbüttel, 20/30 August 1666</title>
+</titleInfo>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>August, Duke of Braunschweig-Lüneburg</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>2 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>177r</start><end>177v</end></extent>
+</part>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Kircher to Alexander VII, Pope (Fabio Chigi), Rome, 20 September 1662 (draft)</title>
+</titleInfo>
+<name type="personal">
+<namePart>Alexander VII, Pope (Fabio Chigi)</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>mixed material</typeOfResource>
+<genre>draft</genre>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>2 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>178r</start><end>178v</end></extent>
+</part>
+<abstract>""Litterae ad Alex. VII Pontif. Queis gratiae agunt pro medaijs transmissis""."</abstract>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Kircher to Johann II Kasimir, King of Poland, Rome, 20 January 1664 (draft)</title>
+</titleInfo>
+<name type="personal">
+<namePart>Leopold I, Holy Roman Emperor</namePart>
+<role>
+<roleTerm>quoted name</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Alexander VII, Pope (Fabio Chigi)</namePart>
+<role>
+<roleTerm>quoted name</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Bernardi, Martino</namePart>
+<role>
+<roleTerm>quoted name</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Johann II Kasimir, King of Poland</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>mixed material</typeOfResource>
+<genre>draft</genre>
+<genre>accompanying letter</genre>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>4 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>179r</start><end>180v</end></extent>
+</part>
+<abstract>
+
+179r [pencil note] ""Regi Poloniae gli offre la sua chiave per intendere e scrivere in qualunque lingua. De qua vede"". [Polygraphia Nova]
+
+179r  ""…la supplicherà a nome mio di accettare come piccolo e povero tributo d'un grand obsequio, un mio libro uscito ultimamente alle stampe, per intendere e scrivere in qualunque lingua, ancor que non si n'abbi cognitione; insieme con una cifra per aprire il proprio segreto, a chi si vuole, con renderlo impenetrabile a qualunque altro.  Due simili ne furono presentate ultimamente, una alla Santità di N.S. L'altra alla Maestà Cesarea, e doppo essere state messe alla prova [179v] riportorono la loro approvatione…""
+
+180v=""Regem Poloniae"</abstract>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Francesco Manuele Melos to Kircher, Genoa, 10 January 1665</title>
+</titleInfo>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Melos, Francesco Manuele</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>4 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>181r</start><end>182v</end></extent>
+</part>
+<abstract>""Rmo Padre: mio caro amico e stimatissimo Maestro. Questo Cometa a qualche persona, sarà infausto mà a la mia à stato faustissimo; essendo ocassione di havere io recivuto la cortessissima lettera de la molto R. P. V…""
+
+Manuel has been asked by Kircher to send him observations of a comet.  He also offers to send ""semplici, e cosse rare"", and also get hold of ""osservatione fatte dela setentrionale, come de gli Inglesse e Holandesse…""
+
+182v=""Don Frances. Manuel de Melos"""</abstract>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Kircher to Ferdinand Karl, Ruler of Tyrol, Rome, 9 June 1662 (draft)</title>
+</titleInfo>
+<name type="personal">
+<namePart>Herberstein, Ferdinand</namePart>
+<role>
+<roleTerm>quoted name</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Ferdinand Karl, Ruler of Tyrol</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>mixed material</typeOfResource>
+<genre>draft</genre>
+<genre>letter</genre>
+<genre>accompanying letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>2 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>183r</start><end>183v</end></extent>
+</part>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>August, Duke of Braunschweig-Lüneburg to Kircher, Wolfenbüttel, 30 June 1665</title>
+</titleInfo>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>August, Duke of Braunschweig-Lüneburg</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>2 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>184r</start><end>184v</end></extent>
+</part>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>August, Duke of Braunschweig-Lüneburg to Kircher, Wolfenbüttel. 25 July 1664</title>
+</titleInfo>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>August, Duke of Braunschweig-Lüneburg</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>4 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>185r</start><end>186v</end></extent>
+</part>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Ferdinando Giovanni di Gonzaga to Kircher, Castiglione, 15 July 1663</title>
+</titleInfo>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Gonzaga, Ferdinando Giovanni di</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>4 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>187r</start><end>188v</end></extent>
+</part>
+<abstract>
+
+187r Kircher has sent Ferdinando a ""descrittione della Cometa apparsa con la spiegatione de suoi prudentissimi sentimenti…""
+
+He continues: ""Qui, ancora, fù scoperta, e tuttavia si osserva la detta cometa…""
+
+188v=address and seal"</abstract>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Ferdinando Giovanni di Gonzaga to Kircher, Castiglione, 26 March 1665</title>
+</titleInfo>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Petrucci, Giuseppe Antonio</namePart>
+<role>
+<roleTerm>related name</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Gonzaga, Ferdinando Giovanni di</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>4 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>189r</start><end>190v</end></extent>
+</part>
+<abstract>Thanks Kircher for sending him his Fisiologia Nuova della Natura delle Comete.
+
+190v=address and seal"</abstract>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Carlo Calà, Duke of Diano, to Kircher, Naples. 1 December 1664</title>
+</titleInfo>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Calà, Carlo</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>2 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>191r</start><end>191v</end></extent>
+</part>
+<abstract>Thanks Kircher for letter ""con l'esplicatione, et significato dell'Eritauio, et Driacolaptos, ch'io non intendeva, per non haver mai atteso alla lingua greca…"""</abstract>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Carlo Calà, Duke of Diano, to Kircher, Naples. 23 May 1665</title>
+</titleInfo>
+<name type="personal">
+<namePart>Caramuel Lobkowic, Juan</namePart>
+<role>
+<roleTerm>quoted name</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Calà, Carlo</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>2 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>192r</start><end>192v</end></extent>
+</part>
+<abstract>Thanks Kircher for the gift of an unnamed book, which he has not yet had time to read, and hopes to send him a ""paco di tomi, che tengo molto vicini a perfettione…"""</abstract>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Carlo Calà, Duke of Diano, to Kircher, Naples. 22 July 1663</title>
+</titleInfo>
+<name type="personal">
+<namePart>Leto, Pomponio</namePart>
+<role>
+<roleTerm>quoted name</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Trithemius, Joannes</namePart>
+<role>
+<roleTerm>quoted name</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Lemos, Count of (unidentified)</namePart>
+<role>
+<roleTerm>quoted name</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Neiremberg, Johann Eusebius</namePart>
+<role>
+<roleTerm>quoted name</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Calà, Carlo</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>4 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>193r</start><end>194v</end></extent>
+</part>
+<abstract>""Ricevo con mio gran contento la lettera di V.P. inviatami insieme con la sua poligrafia, della quale un Padre della Compagni mi ha consegnato anco un volume per il Vescovo di Campagna…""
+
+The Polygrafia Nova seems to Calà to contain ideas which are ""non solam.te impossibili, ma magiche, et sopranaturali…""
+
+Calà awaits Kircher's comments on the art of numbers and the cabbalah (194v )"</abstract>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Carlo Calà, Duke of Diano, to Kircher, Naples, 13 October 1663</title>
+</titleInfo>
+<name type="personal">
+<namePart>Lucchetini, [unidentified]</namePart>
+<role>
+<roleTerm>quoted name</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Calà, Carlo</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>4 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>195r</start><end>196v</end></extent>
+</part>
+<abstract>Thanks Kircher for an unnamed book</abstract>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Carlo Calà, Duke of Diano, to Kircher, Naples, 11 August 1663</title>
+</titleInfo>
+<name type="personal">
+<namePart>Codela, [unidentified]</namePart>
+<role>
+<roleTerm>quoted name</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Calà, Carlo</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>4 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>197r</start><end>198v</end></extent>
+</part>
+<abstract>Thanks Kircher for 3 books, one of which he has forwarded to Father Codela.
+
+198v=""Duca di Diano"""</abstract>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Carlo Calà, Duke of Diano, to Kircher, Naples, 14 September 1662</title>
+</titleInfo>
+<name type="personal">
+<namePart>Marculum, Joannes Baptista</namePart>
+<role>
+<roleTerm>quoted name</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Calà, Carlo</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>2 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>199r</start><end>199v</end></extent>
+</part>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Carlo Calà, Duke of Diano, to Kircher, Naples, 28 August 1663</title>
+</titleInfo>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Calà, Carlo</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>2 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>200r</start><end>200v</end></extent>
+</part>
+<abstract>""L'esemplare dell'Edipo Egitiatico stampato in Roma non è altro da me veduto perche non ho'cognitione alcuna di cose caballistiche, non essendo di mia professione…"""</abstract>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Carlo Calà, Duke of Diano, to Kircher, Naples, 15 September 1663</title>
+</titleInfo>
+<name type="personal">
+<namePart>Caramuel Lobkowic, Juan</namePart>
+<role>
+<roleTerm>quoted name</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Calà, Carlo</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>mixed material</typeOfResource>
+<genre>letter</genre>
+<genre>accompanying letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>4 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>201r</start><end>202v</end></extent>
+</part>
+<abstract>Mons.r Vescovo di Campagna has given Calà Kircher's 'opera metametrica'
+
+202v=address and seal, ""Duca di Diano"" in different hand"</abstract>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Carlo Calà, Duke of Diano, to Kircher, Naples, 23 December 1661</title>
+</titleInfo>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Calà, Carlo</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>4 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>203r</start><end>204v</end></extent>
+</part>
+<abstract>
+
+204v=""Don Carlo Calà Dux Diani"" in different hand."</abstract>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Carlo Calà, Duke of Diano, to Kircher, Naples, 21 March 1665</title>
+</titleInfo>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Calà, Carlo</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>4 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>205r</start><end>206v</end></extent>
+</part>
+<abstract>""Ricevo il favore di V.P., con il libretto inviatomi sopra l'osservatione della Cometa, quale hò letto subito con particolara mio gusto, come opera d'un tanto Maestro, et mio singolar padrone et amico, anzi l'hò prometto à molti Cavalieri che l'anderanno leggendo da mano in mano.  Io non posso darli giudizio sopra cosa che non è della mia professione, et così solam.te hò pasciuto la curiosità, et imparato qualche cosa, ma posso bene assecurarli che non è senza prodigio, nè sarà vacua d'effetti maravigliosi, et così lo farò vedere a V.P. molto presto; intanto resto baciando à V.P. infinitam.te le mani"".
+
+206v=""Il Duca di Diano"" in different hand."</abstract>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Michele d'Asquies to Kircher, Vienna, 19 July 1655
+
+Michele d'</title>
+</titleInfo>
+<name type="personal">
+<namePart>Panaiotti, Nicursio</namePart>
+<role>
+<roleTerm>quoted name</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Asquies, Michele d'</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>mixed material</typeOfResource>
+<genre>letter</genre>
+<genre>accompanying letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>2 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>207r</start><end>207v</end></extent>
+</part>
+<abstract>D'Asquies is unable to visit Kircher in Rome because of his duties serving the Emperor in Vienna. ""Per insinuarmi maggiormente, mi vaglio dell'annesso Pieghetto raccomandatomi dal Sig.re Panaioti Nicursio Interprete C.is in Costantinopoli…"""</abstract>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Jodwig Höpffner to Kircher, Brussels, 9 October 1655</title>
+</titleInfo>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Höpffner, Jodwig</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>2 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>208r</start><end>208v</end></extent>
+</part>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Leopold von Kollonich (Kollonitz) to Kircher, Vienna, 11 December 1665
+
+Leopold von Kollonich (Kollonitz) to Kircher, Vienna, 11 December 1665</title>
+</titleInfo>
+<name type="personal">
+<namePart>Medici, Leopoldo de'</namePart>
+<role>
+<roleTerm>quoted name</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Kollonich (Kollonitz), Leopold von</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>2 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>209r</start><end>209v</end></extent>
+</part>
+<abstract>209r ""Libellum Sti Eustachii summo gaudio exspectat""
+
+[Historia Eustachio-Mariana]
+
+""sed etiam opinione Patris Kircheri scire vellem de commetta…""
+
+209v=blank."</abstract>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Wilderich von Walderdorff to Kircher, Pozsony, 22 July 1662</title>
+</titleInfo>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Walderdorff, Wilderich von</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>4 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>210r</start><end>211v</end></extent>
+</part>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Johann Weickard von Auersperg to Kircher, Vienna, 12 November 1665</title>
+</titleInfo>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Auersperg, Johann Weickard von</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>4 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>212r</start><end>213v</end></extent>
+</part>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Ferdinando Giovanni di Gonzaga to Kircher, Castiglione, 30 December 1662</title>
+</titleInfo>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Gonzaga, Ferdinando Giovanni di</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>4 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>214r</start><end>215v</end></extent>
+</part>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Ferdinando Giovanni di Gonzaga to Ulrich Gering, Castiglione, 24 August 1663</title>
+</titleInfo>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>quoted name</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Gering, Ulrich</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Gonzaga, Ferdinando Giovanni di</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>2 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>216r</start><end>216v</end></extent>
+</part>
+<abstract>Not originally to Kircher, but Gheringo. The second paragraph starts:
+
+""Dal Pre Athanasio hò ricevuto la nuova opera sopra l'intelligenza di tutti i linguaggi del Mondo, la faccio ligare, e veram.te è cosa curios.ma, bell.ma, e degna d'un tanto  qualificato Padre.  Premiti al med.o la mia Medaglia d'oro, e gli hò ratificata la promessa anche in questa congiuntura, ne hò tardato ad effet: tuarla, se non perche desiderano, che fosse ben'improntata, e colla magg.re delicatezza, ma non havendo trovato artefice di mia sodisfatt.e sin hora, ne hò havuta m.ta passione…"""</abstract>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Ferdinand Johann, Prince of Lichtenstein, to Kircher, Ceske Krumlov, 11 March 1663</title>
+</titleInfo>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Ferdinand Johann, Prince of Lichtenstein</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>4 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>217r</start><end>218v</end></extent>
+</part>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Ferdinand Johann, Prince of Lichtenstein, to Kircher, Ceske Krumlov, 24 September 1662</title>
+</titleInfo>
+<name type="personal">
+<namePart>Battemann, [unidentified]</namePart>
+<role>
+<roleTerm>quoted name</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Ferdinand Johann, Prince of Lichtenstein</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>4 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>219r</start><end>219v</end></extent>
+</part>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Ferdinand Johann, Prince of Lichtenstein, to Kircher, Ceske Krumlov, 29 April 1663</title>
+</titleInfo>
+<name type="personal">
+<namePart>Bohm, [unidentified]</namePart>
+<role>
+<roleTerm>quoted name</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Ferdinand Johann, Prince of Lichtenstein</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>4 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>220r</start><end>221v</end></extent>
+</part>
+<abstract>Autograph postscript: ""P. Bohm docuit me modum aliquem secretè scribendi cum punctis, qui facilis est et caret omni suspicione, extraneus autem nullo modo potest solvere"".
+
+221v=address, seal and ""Lichtenstein"" in different hand."</abstract>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Ferdinando Giovanni di Gonzaga to Kircher, Castiglione, 26 December 1660</title>
+</titleInfo>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Gonzaga, Ferdinando Giovanni di</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>4 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>223r</start><end>224v</end></extent>
+</part>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Duke of Bovino [unidentified] to Kircher, 17 September 1660</title>
+</titleInfo>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Bovino, Duke of [unidentified]</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>2 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>225r</start><end>225v</end></extent>
+</part>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Christian August, Duke of Schleswig-Holstein to Kircher, Paris, 6 July 1662</title>
+</titleInfo>
+<name type="personal">
+<namePart>Chigi, Flavio</namePart>
+<role>
+<roleTerm>quoted name</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Christian August, Duke of Schleswig-Holstein</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>4 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>226r</start><end>227v</end></extent>
+</part>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Ferdinando Giovanni di Gonzaga to Ulrich Gering, Castiglione, 21 April 1661</title>
+</titleInfo>
+<name type="personal">
+<namePart>Pompeati, Pompeo</namePart>
+<role>
+<roleTerm>quoted name</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Gering, Ulrich</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Gonzaga, Ferdinando Giovanni di</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>4 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>228r</start><end>229v</end></extent>
+</part>
+<abstract>Thanks  Gering (in Ingolstadt) for an unnamed book. Mentions ""la spesa dell'organo"".
+
+229v=""Princ di Castiglione""."</abstract>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Franz Ferdinand, Elector of Saxony, to Kircher, Neuhausen, 27 March 1662</title>
+</titleInfo>
+<name type="personal">
+<namePart>Sol[us], Iulius Franciscus</namePart>
+<role>
+<roleTerm>quoted name</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Carolus, Franciscus</namePart>
+<role>
+<roleTerm>quoted name</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Franz Ferdinand, Elector of Saxony</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>4 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>230r</start><end>231v</end></extent>
+</part>
+<abstract>""Opusculum illud de prodogiosis crucibus, quod promistis, sane nobis desideratissimum est""
+
+231v=address and seal."</abstract>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Giancarlo de' Medici to Kircher, Florence, 30 April 1661</title>
+</titleInfo>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Medici, Giancarlo de'</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>4 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>232r</start><end>233v</end></extent>
+</part>
+<abstract>""Ho ricevuto in molto grado il dono del libro inviatomi da V.Ptà, et non potrò non  incorrer con gusto la curiosa lettura di esso, mentre contiene una stravagante trattata dalla penna ingegnosa di lei"".
+
+233v=address and seal, and, in different hand, ""Card. Gio. Carlo de' Med."""</abstract>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Ferdinando Giovanni di Gonzaga to Ulrich Gering, Castiglione, 10 March 1661</title>
+</titleInfo>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>quoted name</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Gering, Ulrich</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Gonzaga, Ferdinando Giovanni di</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>4 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>234r</start><end>235v</end></extent>
+</part>
+<abstract>234r ""Sa ella quanto caro, e gradito mi sarà il libro, di ella attendè da Monaco""
+
+234r-v ""il Padre Atanasio Kirchero di elle sue [234v] insigni, e meravigliose opere, con mio particolar debito verso il med.mo che per la loro rarità, et emminenza, può ella ben credere quanto mi sarano care, à misura della brama ella sà ne tempo, la quale accerto nuov.te in tanto, del mio firmo pensiero di rendere pago. l'affettuoso desiderio del med. Padre, colla mia effigie, improntata in Medaglia, mà d'intiera sua, e mia sodisfattione, e perfettam.te bene, ch'auguro à lei compito, per fine.
+
+235v=address and seal, ""Princ di Castigli"" in different hand."</abstract>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Friedrich, Prince of Anhalt-Bernburg to Kircher, Venice, 6 March 1653</title>
+</titleInfo>
+<name type="personal">
+<namePart>Gering, Ulrich</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Friedrich, Prince of Anhalt-Bernburg</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>4 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>236r</start><end>237v</end></extent>
+</part>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Karl I Ludwig, Elector of the Palatinate to Kircher, Heidelberg, 4 April 1661</title>
+</titleInfo>
+<name type="personal">
+<namePart>Spanheim, Ezechiel von</namePart>
+<role>
+<roleTerm>quoted name</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Karl I Ludwig, Elector of the Palatinate</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>2 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>238r</start><end>238v</end></extent>
+</part>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Franz Ertmann, Elector of Saxony to Kircher, Ratzeburg, 14/24 August 1660</title>
+</titleInfo>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Franz Ertmann, Elector of Saxony</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>4 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>239r</start><end>240v</end></extent>
+</part>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Cesare Facchinetti to Kircher, Spoleto, 7 February 1660</title>
+</titleInfo>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Facchinetti, Cesare</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>4 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>241r</start><end>242v</end></extent>
+</part>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Filippo Nardi to Kircher, Florence, 14 January 1655</title>
+</titleInfo>
+<name type="personal">
+<namePart>Angelucci, Francesco</namePart>
+<role>
+<roleTerm>quoted name</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Dal Pozzo, Cassiano</namePart>
+<role>
+<roleTerm>quoted name</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Nardi, Filippo</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>2 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>243r</start><end>243v</end></extent>
+</part>
+<abstract>""… mi do ad intendere, che haverà havuto un gusto grandiss:mo d'haver veduto il suo Museo, ripieno di tanto Bizzarie, e curiosita, non d'altri degne, che del ammirabile giudizio di V.P.. Ricevo il frontespitio della sua nuova Opera del quale si vede, sia per essere curiosiss:ma, et l'ho aneo mostrato qui à molti litterati, che ammirano il suo Giuditio et ingenio, che mai si stanche, di produrre al mondo, cose nuove e belliss:me…"""</abstract>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Bernhard Ignaz von Martinitz to Kircher, Prague, 28 February 1660</title>
+</titleInfo>
+<name type="personal">
+<namePart>Leopold I, Holy Roman Emperor</namePart>
+<role>
+<roleTerm>quoted name</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Martinitz, Bernhard Ignaz von</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>4 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>244r</start><end>245v</end></extent>
+</part>
+<abstract>Refers to the dedication of the Polygraphia Nova.
+
+245v=""Martiniz Burgravius"" in different hand."</abstract>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Leopoldo de' Medici to Kircher, Florence, 20 August 1661</title>
+</titleInfo>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Medici, Leopoldo de'</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>4 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>246r</start><end>247v</end></extent>
+</part>
+<abstract>""Subito che è uscito di sotto la stampa il Libro tanto aspettato da tutti d'Apollonio hò voluto che ne pervenga a V.P.ta uno de primi che si sieno dati fuora…""
+
+247v=""Princ Leopoldo di Toscana"" in different hand."</abstract>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Friedrich, Landgrave of Hesse-Darmstadt to Kircher, Heitersheim, 14 April 1660</title>
+</titleInfo>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Friedrich, Landgrave of Hesse-Darmstadt</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>4 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>248r</start><end>249v</end></extent>
+</part>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Karl I Ludwig, Elector of the Palatinate, to Kircher, Heidelberg, 30 December 1659</title>
+</titleInfo>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Karl I Ludwig, Elector of the Palatinate</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>4 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>250r</start><end>251v</end></extent>
+</part>
+<abstract>""Catalogus librorum, à te editorum, quem adjunxisti, visu mihi fuit gratissimus"".
+
+251v=address and seal."</abstract>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Franz Ertmann, Elector of Saxony, to Kircher, Ratzeburg, 16/26 January 1660</title>
+</titleInfo>
+<name type="personal">
+<namePart>Peter, [unidentified]</namePart>
+<role>
+<roleTerm>quoted name</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Franz Ertmann, Elector of Saxony</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>4 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>252r</start><end>253v</end></extent>
+</part>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Friedrich, Landgrave of Hesse-Darmstadt to Kircher, Heitersheim, 21 June 1661</title>
+</titleInfo>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Friedrich, Landgrave of Hesse-Darmstadt</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>4 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>254r</start><end>255v</end></extent>
+</part>
+<abstract>""…ho ricevuto il libro curioso delle Croci fatta da V.P….""
+
+255v=address and seal."</abstract>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Friedrich, Landgrave of Hesse-Darmstadt to Kircher, Heitersheim, 14 April 1660</title>
+</titleInfo>
+<name type="personal">
+<namePart>Nardi, Filippo</namePart>
+<role>
+<roleTerm>quoted name</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Friedrich, Landgrave of Hesse-Darmstadt</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>4 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>256r</start><end>257v</end></extent>
+</part>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Ferdinando Giovanni di Gonzaga to Kircher, Castiglione, 29 December 1661</title>
+</titleInfo>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Gonzaga, Ferdinando Giovanni di</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>4 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>258r</start><end>259v</end></extent>
+</part>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Leopoldo de' Medici to Kircher, Florence, 16 August 1667</title>
+</titleInfo>
+<name type="personal">
+<namePart>Borelli, Giovanni Alfonso</namePart>
+<role>
+<roleTerm>quoted name</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Medici, Leopoldo de'</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>2 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>260r</start><end>260v</end></extent>
+</part>
+<abstract>Leopoldo sends Kircher Borelli book ""sopra la forza della percorsa"""</abstract>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Ferdinando Giovanni di Gonzaga to Kircher, Castiglione, 9 October 1661</title>
+</titleInfo>
+<name type="personal">
+<namePart>Gering, Ulrich</namePart>
+<role>
+<roleTerm>quoted name</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Gonzaga, Ferdinando Giovanni di</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>4 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>261r</start><end>262v</end></extent>
+</part>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Carlo Calà, Duke of Diano, to Kircher, Naples, 15 November 1661</title>
+</titleInfo>
+<name type="personal">
+<namePart>Heinrich VI, Holy Roman Emperor</namePart>
+<role>
+<roleTerm>quoted name</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Mandello, Luca</namePart>
+<role>
+<roleTerm>quoted name</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Calà, Giovanni</namePart>
+<role>
+<roleTerm>quoted name</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Calà, Carlo</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>4 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>263r</start><end>264v</end></extent>
+</part>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Franz Ertmann, Elector of Saxony to Kircher, Ratzeburg, 31 August 1661</title>
+</titleInfo>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Franz Ertmann, Elector of Saxony</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>4 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>265r</start><end>266v</end></extent>
+</part>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Prince of Holstein [Christian August, Duke of Schleswig-Holstein?] to Guglielmo Montesio, Paris, 6 July 1661</title>
+</titleInfo>
+<name type="personal">
+<namePart>Christian August, Duke of Schleswig-Holstein</namePart>
+<role>
+<roleTerm>presumed sender</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Christian August, Duke of Schleswig-Holstein</namePart>
+<role>
+<roleTerm>quoted name</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>quoted name</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Mackbrek, [unidentified]</namePart>
+<role>
+<roleTerm>quoted name</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Montesio, Guglielmo</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>4 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>267r</start><end>268v</end></extent>
+</part>
+<abstract>
+
+267r Montesio passed on the ""segreto delli  archibuzzi à vento""
+
+267r ""… il n[ost]ro studio mathematico non avanza quì [in Paris] cosi bene come nella gratissima galleria del R.P. Kircher""
+
+267v A.G. is making a ""Polemoscopio molto utile nella guerra per scoprirne con securità l'Inimico quando sta vicino nella fossa ove altrove."" + diagram of magnifying periscope, which he did not remember seeing in Rome.
+
+Also describes a ""camera oscura portatile"", with diagram, which rights the image.
+
+268r ""Non ci manca altro che di poter comporre melothesie [?] convenienti p[er] le commedie"" (this is described as one of Kircher's secrets).
+
+268r He found a single copy of the Arte Lucis et Umbrae in Paris, costing 10 scudi.
+
+268r In Rome he bought copies of the Arte Magnetica and the Musurgia for ""due dobble"".
+
+268r Afterwards, continuing their journey, ""via nostro paese"", to England.
+
+268v=address and seal, ""Princeps Holsatia"" in different hand."</abstract>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Maximilian Guidobald von Martinitz to Kircher, Prague, 1 May 1660</title>
+</titleInfo>
+<name type="personal">
+<namePart>Francis Xavier, Saint</namePart>
+<role>
+<roleTerm>quoted name</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Martinitz, Bernhard Jaroslav</namePart>
+<role>
+<roleTerm>quoted name</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Martinitz, Maximilian Guidobald von</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>4 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>269r</start><end>270v</end></extent>
+</part>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Monsignor Menssonnier to Kircher, Lyon, 26 May 1661</title>
+</titleInfo>
+<name type="personal">
+<namePart>Gonnaldo, Cardinal</namePart>
+<role>
+<roleTerm>quoted name</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Menssonnier, Monsignor</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>2 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>271r</start><end>271v</end></extent>
+</part>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Johann Schega to Kircher, Vienna, 29 January 1661</title>
+</titleInfo>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Schega, Johann</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>2 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>272r</start><end>272v</end></extent>
+</part>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Johann Eissert to Kircher, Traunkirch, 16 February 1661</title>
+</titleInfo>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Eissert, Johann</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>2 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>273r</start><end>273v</end></extent>
+</part>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Johann Heinrich von Kielmannseck to Kircher, Vienna, 1 January 1661</title>
+</titleInfo>
+<name type="personal">
+<namePart>Banfi (Palfi), Giulio</namePart>
+<role>
+<roleTerm>quoted name</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Kielmannseck, Johann Heinrich von</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>2 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>274r</start><end>274v</end></extent>
+</part>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Philipp Müller (Miller) to Kircher, Vienna, 24 April 1660</title>
+</titleInfo>
+<name type="personal">
+<namePart>Schorrer, Christoph</namePart>
+<role>
+<roleTerm>quoted name</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Persall, William</namePart>
+<role>
+<roleTerm>quoted name</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Hollant, Johann Baptist van</namePart>
+<role>
+<roleTerm>quoted name</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Müller (Miller), Philipp</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>2 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>275r</start><end>275v</end></extent>
+</part>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Christina, Queen of Sweden, to Kircher, no place, undated</title>
+</titleInfo>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Christina, Queen of Sweden</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>2 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>276r</start><end>276v</end></extent>
+</part>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Johann Baptist van Hollant to Kircher, Vienna, 17 April 1660</title>
+</titleInfo>
+<name type="personal">
+<namePart>Schega, Johann</namePart>
+<role>
+<roleTerm>quoted name</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Müller (Miller), Philipp</namePart>
+<role>
+<roleTerm>quoted name</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Hollant, Johann Baptist van</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>2 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>277r</start><end>277v</end></extent>
+</part>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Christian August, Duke of Schleswig-Holstein to Kircher, Florence, 23 April 1661</title>
+</titleInfo>
+<name type="personal">
+<namePart>Montesio, Guglielmo</namePart>
+<role>
+<roleTerm>quoted name</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Christian August, Duke of Schleswig-Holstein</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>2 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>278r</start><end>278v</end></extent>
+</part>
+<abstract>Thanks Kircher for kindness shown to him in Rome. Adds in a postscript that ""Io bacio le mani con licenzia di V.R. al P. Wilhelmo. S. Holsten le bacia le mani"". 
+
+Padre Montesio had promised the prince a letter of recommendation and ""l'arte di far l'archebugij a vento""  and Kircher had promised to send two ""libretti"" to the Prince in Hamburg. 
+
+278v=address and seal with ""Princ. De Holsatia"" in the hand of Kircher (?)"</abstract>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Godefrid Alois Kinner von Löwenthurm to Kircher, Prague, 1 May 1655</title>
+</titleInfo>
+<name type="personal">
+<namePart>Marci of Kronland, Jan Marcus</namePart>
+<role>
+<roleTerm>quoted name</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Kinner von Löwenthurm, Godefrid Alois</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>2 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>279r</start><end>279v</end></extent>
+</part>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Kircher to Franz Ertmann, Elector of Saxony, Rome, 6 March 1660 (draft)</title>
+</titleInfo>
+<name type="personal">
+<namePart>Kras (Crasius), Lodewijk</namePart>
+<role>
+<roleTerm>quoted name</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Franz Ertmann, Elector of Saxony</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>mixed material</typeOfResource>
+<genre>draft</genre>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>2 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>280r</start><end>280v</end></extent>
+</part>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Fabio Albergati to Kircher, Florence, 25 May 1660</title>
+</titleInfo>
+<name type="personal">
+<namePart>Montemagno, Desiderio</namePart>
+<role>
+<roleTerm>quoted name</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Albergati, Fabio</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>2 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>281r</start><end>281v</end></extent>
+</part>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Kircher to August, Duke of Braunschweig-Lüneburg, Rome, 15 December 1662 (draft)</title>
+</titleInfo>
+<name type="personal">
+<namePart>Trithemius, Joannes</namePart>
+<role>
+<roleTerm>quoted name</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Ferdinand Albrecht, Duke of Braunschweig-Lüneburg</namePart>
+<role>
+<roleTerm>quoted name</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>August, Duke of Braunschweig-Lüneburg</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>mixed material</typeOfResource>
+<genre>draft</genre>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>4 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>282r</start><end>283v</end></extent>
+</part>
+<abstract>""… Steganographiam dico novam, quam cistula inclusam…""
+
+283v=address and seal, ""Literae ad ducem Brunswicensi"""</abstract>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Philipp Müller (Miller) to Kircher, Vienna. 29 January 1661</title>
+</titleInfo>
+<name type="personal">
+<namePart>Martini (de Martinis), Martino</namePart>
+<role>
+<roleTerm>quoted name</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Müller (Miller), Philipp</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>2 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>284r</start><end>4v</end></extent>
+</part>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Leopoldo de' Medici to Kircher, Florence, 26 April 1661</title>
+</titleInfo>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Medici, Leopoldo de'</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>4 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>285r</start><end>4v</end></extent>
+</part>
+<abstract>Thanks Kircher for his ""Composizione … formata da lei intorno alle croci apparse nel'Servitorio di Napoli sopra le teste de gl'huomini; et se le d[ett]e Croci sieno state, et sieno naturali io non son'lontano dal'crederne  l'Origine che ne espone V. P.tà, ma il mio dubbio è che elle sieno state gia mai…""
+
+286v=""Principe Leopoldo di Toscana"""</abstract>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Ferdinando Giovanni di Gonzaga to Kircher, Castiglione. 26 May 1661</title>
+</titleInfo>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Gonzaga, Ferdinando Giovanni di</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>4 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>287r</start><end>4v</end></extent>
+</part>
+<abstract>Ferdinando has received from Kircher letters and his ""libretto sopra l'apparitione delle Croci in Napoli"" which he finds ""pieno di sing.le dottrina, e di curios.me osservatione"".
+
+288v=address and seal."</abstract>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Leopold I, Holy Roman Emperor, to Kircher,Vienna 22 June 1667</title>
+</titleInfo>
+<name type="personal">
+<namePart>Müller (Miller), Philipp</namePart>
+<role>
+<roleTerm>quoted name</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Fabián, Alejandro</namePart>
+<role>
+<roleTerm>quoted name</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Leopold I, Holy Roman Emperor</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Hocher, Johann Paul</namePart>
+<role>
+<roleTerm>signatory</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Abele, Christopher</namePart>
+<role>
+<roleTerm>signatory</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>5 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>289r</start><end>4v</end></extent>
+</part>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Kircher to Alexander VII, Pope (Fabio Chigi), Rome, 27 April 1660 (draft)</title>
+</titleInfo>
+<name type="personal">
+<namePart>Alexander VII, Pope (Fabio Chigi)</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>mixed material</typeOfResource>
+<genre>draft</genre>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>4 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>7r</start><end>4v</end></extent>
+</part>
+<abstract>Kircher has sent a manuscript to Alexander VII (""in hac de Numerorum origine [Diatriba]…""). This is presumably a reference to the short manuscript treatise ""De Origine eorum numerorum, quos Zyphras vulgo vocant, quibus hoc tempore in computu rerum omnes uti solent"", BAV Chigi J.VI.225, ff. 78r-80v.
+
+8v= note in Kircher's hand."</abstract>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Ferdinand III, Holy Roman Emperor, to Kircher, Regensburg, 24 April 1654</title>
+</titleInfo>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Ferdinand III, Holy Roman Emperor</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>mixed material</typeOfResource>
+<genre>attestation</genre>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>2 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>1r</start><end>4v</end></extent>
+</part>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Ferdinando Giovanni di Gonzaga to Kircher, Castiglione, 12 July 1663</title>
+</titleInfo>
+<name type="personal">
+<namePart>Balliani, Giulio Cesare</namePart>
+<role>
+<roleTerm>quoted name</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Kircher, Athanasius</namePart>
+<role>
+<roleTerm>recipient</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Gonzaga, Ferdinando Giovanni di</namePart>
+<role>
+<roleTerm>sender</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre>letter</genre>
+<physicalDescription>
+<internetMediaType>image/tiff</internetMediaType>
+<extent>4 files</extent>
+</physicalDescription>
+<part>
+<extent unit="page"><start>1r</start><end>4v</end></extent>
+</part>
+<abstract>Praises the Polygraphia Nova ("" … la nuova opera hà dato alle stampe, coll'insegnam.to di corrispondersi, per lettere, con tutte le Nationi del Mondo …""). Also mentions the ""medaglione"" he is having made.
+
+168v=address and seal"</abstract>
+</relatedItem>
+</mods>
+</modsCollection>
